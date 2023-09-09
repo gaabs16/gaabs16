@@ -3,7 +3,7 @@
 ## Sobre mim
 - :dart: Desenvolvedora
 - :blue_heart: Aluna do instituto Proa
-- :computer: Ciencia da Computação 
+- :computer: Ciência da Computação 
 - :headphones: Sound Designer
 - :balloon: 21 anos
 
