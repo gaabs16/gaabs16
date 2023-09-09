@@ -8,8 +8,8 @@
 - :balloon: 21 anos
 
   <div>
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabs16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabs16&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gaabs16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabs16&layout=compact&langs_count=16&theme=midnight-purple"/>
   </div>
   <br>
   <div align="center"> 
