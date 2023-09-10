@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=471BA6&size=35&center=true&vCenter=true&width=1000&lines=Olá!+eu+sou+a+Gabriella;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=471BA6&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gabriella+Hernandes;I'm+21+years+old;I'm+from+Brazil;Be+welcome!)](https://git.io/typing-svg)
 
 ## Sobre mim
 - :dart: Desenvolvedora
 - :blue_heart: Aluna do instituto Proa
 - :computer: Ciência da Computação 
 - :headphones: Sound Designer
-- :balloon: 21 anos
+- :star2: Criativa
 
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gaabs16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
