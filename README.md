@@ -33,4 +33,4 @@
       <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" /></a>
   </p>
   
-![Snake animation](https://github.com/gaabs16/gaabs16/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
