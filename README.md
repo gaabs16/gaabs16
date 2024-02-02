@@ -30,7 +30,7 @@
   </div>
       
   <p align="center">
-      <a href="https://www.buymeacoffee.com/gabriella.hernandes"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" /></a>
+      <a href="https://www.buymeacoffee.com/gabriella.hernandes"> <img align="center" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Gabriella.Hernandes&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD0" height="50" width="210" /></a>
   </p>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
