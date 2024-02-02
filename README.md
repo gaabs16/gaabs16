@@ -3,7 +3,7 @@
 ## Sobre mim
 - :dart: Desenvolvedora
 - :blue_heart: Aluna do instituto Proa
-- :computer: Ciência da Computação 
+- :computer: Engenharia da Computação 
 - :headphones: Sound Designer
 - :star2: Criativa
 
