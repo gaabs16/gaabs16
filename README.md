@@ -22,6 +22,11 @@
       <img align="center" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
       <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" align="center" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" align="center" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" align="center" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" align="center" width="40" height="40"/>
     </div>
   </div>
   <hr>
