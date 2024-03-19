@@ -30,9 +30,6 @@
     </div>
   </div>
   <hr>
-  <div align="center">
-	  <a href="www.linkedin.com/in/gabriellahernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
       
   <p align="center">
       <a href="https://www.buymeacoffee.com/gabriella.hernandes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
