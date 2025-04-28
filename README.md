@@ -5,7 +5,6 @@
 - :video_game: Jogos Digitais - Fatec
 - :headphones: Sound Designer
 - :blue_heart: Ex-Proana
-- :star2: Criativa
 
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gaabs16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
